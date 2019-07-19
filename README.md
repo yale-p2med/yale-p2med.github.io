@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the research webpage of the P2MED center at Yale University School of Medicine
 
 You can use the [editor on GitHub](https://github.com/yale-p2med/yale-p2med.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
