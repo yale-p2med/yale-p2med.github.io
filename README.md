@@ -1,4 +1,12 @@
-## Welcome to the research webpage of the P2MED center at Yale University School of Medicine
+# Welcome to the P2MED center@Yale
+
+Research in our center focuses on data analysis of large scale omics data from pulmonary diseases, including idiopathic pulmonary fibrosis (IPF), Sarcoidosis, Asthma and so on. The omics data that we analyze include bulk and single cell RNA sequencing data, genome wide association analysis (GWAS), microbiome sequencing data and so on.
+
+# Projects
+
+## [Transcriptomics of Bronchoalveolar Lavage Cells Identifies New Molecular Endotypes of Sarcoidosis](https://yale-p2med.github.io/SARC_BAL)
+
+
 
 You can use the [editor on GitHub](https://github.com/yale-p2med/yale-p2med.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
